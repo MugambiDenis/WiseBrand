@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html>
+  <body bg-color="blue">
+  <div class="nav">
+  <div class="container">
+   <div class="learn more">
+     
+ 
+    <ul>
+      <li>WiseBrand</li>
+      <li>Features</li>
+    </ul>
+    <ul>
+    <li>Products</li>
+      <li>Help and support</li>
+      <li>Sign in</li>
+      </ul>
+      </div>
+      </div>
+      <div class="jumbotron">
+      <div class="learn more">
+      <div class="container">
+      <div>
+      <h3>Data Driven </h3>
+      <p> We rely on business intelligence(Big data) to establish your brand presence across all platforms.From social media giants, to blogsites and mainstream media; we've got you covered<p>
+      <p>
+      <a href="#">Explore our data-driven stack</a>
+      </p>
+      </div>
+      <div class="learn-more">
+      <div class="container">
+     
+     <h1> Future-focused</h1>
+     <p>In this day and age, we believe that technology is the supreme factor that determines who stays in the game and who exits.</p>
+        <P>Leverage on our innovative tools for future projections.Stump brand market presence and authority.
+     </div>
+     <div class="learn-more">
+     <div class="container">
+     <div>
+     <h3>Pricing</h3>
+     <p>Because the evolutionary approach for pricing is somewhat complex, we have come up[ with an efficient pricing model which relies heavily on performance levels.
+       It's a win-win situation for advertizers and content producers/developers.
+     <a href="#">Learn more about our pricing model<a>
+      <div class="learn more">
+      <div class="container">
+     <div>
+     
+     <h3>Trust, Integrity and reliability</h3>
+     <p>From verification of content, to our friendly customer support team, we've got your back.</p>
+     <a href="#">Learn about integrity and reliability at WiseBrand </a>
+     </div>
+     </div>
+     </div>
+     
+     
+   
+  </body>
+</html>
